@@ -34,15 +34,15 @@ Al ser un medio nacido de la convergencia entre la proyección de figuras 3D, y 
 
 - <u>Publicitario</u>: Es muy utilizado en la actualidad por diversas marcas, para presentar nuevos productos o líneas. Normalmente se realizan en las fachadas de grandes edificios conseguir un mayor impacto y visibilidad a la proyección, por lo que se ha convertido en una de las opciones favoritas de las marcas actualmente (Fractaliasystems.com). Aunque hay otros casos, conocidos como micro o mini mappings, más pequeños y económicos que están ganando gran popularidad actualmente, un ejemplo sería el que presento en el vídeo, realizado por la marca *New Balance*, para dar a conocer su nuevo modelo de deportivas. 
 
-  <iframe width="740" height="590" src="https://www.youtube.com/embed/xrJCSJudmEg" frameborder="0"></iframe>
+<iframe width="740" height="590" src="https://www.youtube.com/embed/xrJCSJudmEg" frameborder="0"></iframe>
 
 - <u>Artístico</u>: Generalmente se utiliza como una opción alternativa y espectacular para crear la escenografía de una obra de teatro, ópera y música en directo,  como es el caso del vídeo. También se utiliza para crear volúmenes y formas abstractas con formas de objetos geométricos.
 
-  <iframe width="740" height="590" src="https://www.youtube.com/embed/DdpoQWrAgi4" frameborder="0"></iframe>
+<iframe width="740" height="590" src="https://www.youtube.com/embed/DdpoQWrAgi4" frameborder="0"></iframe>
 
 - <u>Table Mapping</u>: Se utilizan principalmente dar movimiento y vida a todos los elementos de la mesa en restaurantes ofreciendo una escena atractiva e inmersiva a los comensales en una experiencia gourmet.
 
-  <iframe width="740" height="590" src="https://www.youtube.com/embed/pzrUmGLVpqg" frameborder="0"></iframe>
+<iframe width="740" height="590" src="https://www.youtube.com/embed/pzrUmGLVpqg" frameborder="0"></iframe>
 
 Al haber visto los diferentes tipos del medio del Video Mapping, creo que podemos ver que este medio efectivamente, es un caso de hibridación según la definición de Manovich, ya que está combinando el modelado 3D, mapeando un objeto o estructura a través de un escáner, para así poder generar la secuencia de vídeo que vamos a ver como espectadores, interaccionando con el modelo, de modo que generamos una secuencia de vídeo que no podemos ver en otro medio, como sería el cine. Esto ha dado lugar incluso a software propio, para el escaneo de los elementos que vamos a utilizar y la posterior edición del vídeo, como podría ser el caso de [MadMapper](https://madmapper.com/), que es uno de los más famosos (Popcornstudio.es (2019)).
 
