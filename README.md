@@ -22,8 +22,6 @@ Ahora profundizaré de dos casos de hibridación tratando de ponerme las gafas d
 
 ## Primer caso de hibridación: Video mapping
 
-### Información General
-
 El video mapping, es una técnica visual que consisten en proyectar imágenes sobre cualquier superficie, convirtiendo objetos de nuestro día a día en escenarios tridimensionales, combinando los juegos de luz de las proyecciones, la perspectiva y por supuesto, el sonido, se convierte en un medio capaz de crear una gran inmersión en el espectador (Popcornstudio.es (2019)).
 
 Al ser un medio nacido de la convergencia entre la proyección de figuras 3D, y un apartado más artístico, que es sobre que lienzo queremos realizar nuestra proyección. Por lo que tiene cabida, tanto en el mundo artístico, como en el tecnológico, por lo que hay tantos tipos como la mente de sus creadores pueden imaginar, pero hablare de los más populares:
@@ -49,8 +47,6 @@ Al haber visto los diferentes tipos del medio del Video Mapping, creo que podemo
 Esto ha dado lugar incluso a software propio, para el escaneo de los elementos que vamos a utilizar y la posterior edición del vídeo, como podría ser el caso de [MadMapper](https://madmapper.com/), que es uno de los más famosos (Popcornstudio.es (2019)).
 
 ## Segundo caso de hibridación: Face Raiders
-
-### Información General
 
 Face Raiders, es un juego desarrollado por HAL Laboratory, que apareció en la Nintendo 3DS, como una aplicación preinstalada gratuita. (Wikipedia, 2021)
 
